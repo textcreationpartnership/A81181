@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cup of sack prest forth of the best grapes gathered the last vintage, in the loyall converts new distempered vineyard. Which by frequent using, will make an old lame capon-eater, able to shake his legs, and dance as roundly and as nimbly; as a boy of 18. years of age. Published for the good of those that are so distempered through malignant humours; who may be cured at a cheap rate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81181</idno>
+            <idno type="STC">Wing C7597</idno>
+            <idno type="STC">Thomason E21_7</idno>
+            <idno type="STC">ESTC R14452</idno>
+            <idno type="EEBO-CITATION">99859665</idno>
+            <idno type="PROQUEST">99859665</idno>
+            <idno type="VID">111760</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111760)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E21[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cup of sack prest forth of the best grapes gathered the last vintage, in the loyall converts new distempered vineyard. Which by frequent using, will make an old lame capon-eater, able to shake his legs, and dance as roundly and as nimbly; as a boy of 18. years of age. Published for the good of those that are so distempered through malignant humours; who may be cured at a cheap rate.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111760:1" rendition="simple:additions"/>
+            <p>A CUP OF SACK Preſt forth of the beſt Grapes gathered the laſt Vintage, in the Loyall Converts new diſtem<g ref="char:EOLhyphen"/>pered Vineyard.</p>
+            <p>Which by frequent uſing, will make an old lame Capon-eater, able to ſhake his legs, and dance as roundly and as nimbly; as a Boy of 18. years of age.</p>
+            <p>
+               <hi>Publiſhed for the good of thoſe that are ſo diſtempered through Malignant humours;</hi>
+            </p>
+            <figure>
+               <figDesc>a goblet or chalice</figDesc>
+            </figure>
+            <p>Who may be cured at a cheap rate.</p>
+            <p>LONDON, Printed by JANE Coe. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111760:2"/>
+            <pb facs="tcp:111760:2"/>
+            <head>A Cup of SACKE.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the vintage of the new diſtemper there are wines various, for different pallats, but all <hi>Spaniſh;</hi> I ſhall not taſte of every ſort, nor preſent you with all the gathering; but of each veſſell that I have drawne, take a taſte.</p>
+            <p>The firſt is number 12. and that at the firſt ſight ſeemes good to the eye. So that the loyall convert himſelfe confeſſeth. <hi>That the piety of honeſt harted people was the firſt motive to weekely Lectures.</hi> The more wretches they who went about to ſuppreſſe and hinder them.</p>
+            <p>But then he drinks to deepe of this cup, and that makes him fall to railing againſt <hi>thoſe weekely Lectures, for abuſing that pietie,</hi> When as it is well knowen, that it was the ſilken Prelates and there greaſie Doctors, and full fed Parſons; and Vickers, that abuſed both thoſe honeſt harted people and the Lectures too, and laboured to ſuppreſſe, and ſilence them. One of their fat doctours told his pariſhioners (becauſe they came not in ſo full a congregation to heare him, as the Lecturer? that they left the ſhooemaker to follow, a cobler. And in his anſwer in the next Sermon, the Lecturer confeſſed that time was when they might have their work well done at firſt, but now the Shoemakers take there ſtitches ſo ſcurvely that the people are faine to come to the poor cobler to have them mended.</p>
+            <p>Oh ſayes he: <hi>but theſe Lectures muſt pleaſe the people, and that thereaf<g ref="char:EOLhyphen"/>ter as their Lunaticke Doctrines wrought upon them; ſo their maintainence ebbed and flowed.</hi> But their actions declared the contrary, for they did moſt of them ſuffer, becauſe they would not be men pleaſers; Biſhop-Wren would ſuppreſſe Lecturers at <hi>Norwitch:</hi> becauſe they taught Gods word too plaine, yet he liked the ſimple reader there, that giving thanks for the recovery of one in the towne that had been gored with an Ox: read the Rubrick for the Churching for women (knowing no other wayes how to do it) onely in ſtead of childe-bearing read Ox goring. And poore Mallet <hi>Lewis Hewes,</hi> and divers more were put to ſilence for curing thoſe that were Lunaticke and poſſeſſed with devils, by prayer and Eaſtings <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> The Prelaticall Prieſts ſo there one eſtate flowed, they
+<pb facs="tcp:111760:3"/>cared not how their conſciences ebbed; nor how their poore peoples ſoules were ſtarved.</p>
+            <p>The next glaſſe of this wine is pleaſant to the pallate, which made the convert ſay; <hi>What more pleaſing to the people then the preaching of liberty:</hi> Betunder ſavour there were few ſuch Lecturers put in by the people, Indeed the lofty perſons would ſometimes force ſuch upon the people; as perticularly, Doctour <hi>Fuller</hi> at Cripplegate forced <hi>Huet</hi> upon the pariſh, and they muſt have him or none, who would uſually be at the play-houſe when the congregation ſtaid for him at Church; and ſome<g ref="char:EOLhyphen"/>times five or ſix meſſengers ſent to him to an Ale houſe (and ſometimes to a ſuſpected bawdy houſe) before he would come to them, and ſuch follower indeed would labour to ſow pillowes under mens elbowes, and preach liberty in ſin, <hi>this is ſweete wine but much diſtempred.</hi> And there<g ref="char:EOLhyphen"/>fore in this he ſaith right, that <hi>liberty is inlarged by being pierced with pre<g ref="char:EOLhyphen"/>rogative,</hi> and had they been let alone a little longer, they would have laid claime to the greateſt piece too, they began to overtop the crown.</p>
+            <p>But this diſtemper hath ſuch an opperation that his ſight begins to fail nay indeed he drinkes himſelf ſtarke blinde, and cryes out, oh by ſetting up Lecturers, <hi>down goes Authority, and up goes priviledges, down goes the Book of Common Prayer, and up goes the ſpirit, down goes learning, and up goes Revelation? And nothing will follow this but ignorance and Rebellion.</hi> Thus poore purblinde ſimple people think to find heaven and ſalvation, in the Book of Common Prayer, and have been alwayes ready to pin their faith on the Biſhops ſleeves, &amp; were led on in ignorance, not know<g ref="char:EOLhyphen"/>ing whither they were led; ſhall we not goe to the word revealed, ſhall we not ſeek to be guided by the <hi>Spirit</hi> of God, ſhall we not have re<g ref="char:EOLhyphen"/>ſpect to the <hi>priviledges</hi> of a beleever, They would have brought us to come to buy and beg pardons of them, as the Papiſts are perſwaded to doe, and cared not how many ſouls they damned; as one <hi>Rivers</hi> a notable Prieſt ſaid, we by our learning muſt find out wayes to keep the people in ignorance, and preſcribe rules to keep them in awe, elſe they will by too much preaching, gain too much knowledge; But their diſ<g ref="char:EOLhyphen"/>temper beginning to be more calme, he ſaith that <hi>the Biſhops never loſt themſelves ſo much as in putting down thoſe godly Lecturers and in not taking care to ſet up better and more Orthodox, then they ſuffered to be,</hi> which had they been carefull for ought I know they might have ſtood to this day:
+<pb facs="tcp:111760:3"/>and England have continued in peace. From numb. 12. I will give you a taſte of the next, numb. 13. of which the diſtemper of the opperation is very prelaticall indeed, and put the Biſhop into a high eſteeme of his calling: the wine pleaſeth him well, he drinkes all off to the bottome; cocks his catercap, ſets up his arms on his ſides like a Cavalier and ſaith? <hi>Am not I a Biſhop, doe you not know me? will you go to take away our govern<g ref="char:EOLhyphen"/>ment, before another be pitched upon; who had we neither preſcription nor continuance without interceſsion, nor the Authority of Parliament; yet it ſeemes not conſonant to reaſon, nor policy to extirpate us, or take away our government.</hi> The Spaniſh wine vapours in his braine: and he thinkes himſelfe to be ſomebody; And indeed it is no wonder they were grown ſo high, for Canterbury threatned to make the Church of England low, by a blow, which ſhould be given. But God be thanked the Presbiteriall government is pitched upon, which brings preſcription with it, for the Authority of Parliament.</p>
+            <p>But he tells us, that <hi>liberty lies open to all ſchiſmes, ſects, &amp; hereſies, and that ſectaries grow bold, &amp; vent their giddy headed opinions without controulment.</hi> And indeed the drunken prieſts had never more liberty, It is no more but turning Cavalier, as there is good ſtore of them in all the Enemies quarters, and then he may drinke, roare, ſweare, whore, at pleaſure, teach hereſie, ſchiſme, Blaſphemy, any thing; which if he can doe per<g ref="char:EOLhyphen"/>ſonally he ſhall be made a Captaine, or Lieutenant at the leaſt, of which Haſtings hath at the leaſt eight or tenne in his garriſons and good ſtore were driven out of Oxford to follow the Army: And for thoſe Malignant Clergie that were leſt in Oxford: Doctour <hi>Vſher</hi> told theſe not long ſince; in a Sermon, that they might be aſhamed ſo to diſ<g ref="char:EOLhyphen"/>honour that Reformation, they intend to ſeeke: by being ſo deboiſt.</p>
+            <p>The next fort of this diſtempered wine, which is, Num. 14. makes the loyall convert maudlin drunke, and he falls a crying, and ſayes; <hi>Oh woe is me what ſhall I doe;</hi> why what is the matter man, why <hi>we have made many complaints againſt the independents; and cannot be relieved: and we are afraid to complaine any more.</hi> Why what is the matter, what doe they doe to you. Why <hi>they challenge us to deſpute with us in the open Churches, the most learned of us all.</hi> And indeed now I remember the man ſpeakes truth: they have bin often challenged, Major <hi>Lilborne</hi> challenged the Archbiſhop himſelfe to diſpute with him. And it ſhould not be a
+<pb facs="tcp:111760:4"/>ſhame for a Prelate to be puſled in diſpute with a lawman. But is this all that troubles him, and puts him in ſuch a diſtemper, no he ſaith that when they are come home from hearing of a Sermon, they uſe to pray to God for a bleſſing, at their own houſes or lodging on what they have heard. Indeed this may make our Enemies weak: for our prayers doth us good but them <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prayers of the Church (do not meane of the ſepara<g ref="char:EOLhyphen"/>tion only: I though not exclude them neither,) is a ſtrong Bulwarke a<g ref="char:EOLhyphen"/>gainſt the Popiſh <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prelaticall Enemy. But to coole his ſtomake, he mixes the <hi>water of Dow river,</hi> with his diſtempered wine, and tell us of <hi>prophinations there,</hi> which (through the great diſtemper he was in, if he be guilty of) God forgive him, no doubt they are wicked people in all parts of the Kingdome: but your Prieſts Jeſuits and fryers ſprinkile their holy water at Maſſe among you every day, and there will a ſpeedy courſe taken with thoſe that are <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound ſo ſuperſtituous here. Then he tells us that <hi>many have been convicted of blaſphemy:</hi> which is very true, and Mr White hath put out one centry: and there are almoſt ten times as many upon record, and yet theſe are thoſe he calls learned and Religious miniſters which are <hi>plundred, ſequiſtred,</hi> &amp; <hi>impriſoned</hi> and is there not juſt reaſon for it: for they have not had the leaſt ſhare in the raiſing of theſe Wars, &amp; in bringing the guilt of all the blood thereby ſhed in this King<g ref="char:EOLhyphen"/>dome ſince the Warres began. But ſtill weeping he cryes out againſt <hi>hereſie:</hi> (for the Papiſts call Proteſtants hereticks) <hi>Oh they turn Popery out of doores and we ſhall go for company, or at leaſt be forced to ſhroud our ſelves in corners, as the ſectaries did before,</hi> Oh the fear of this goes to the very heart of them, that whereas they thought to have thruſt out the Proteſtant Religion: and all power put into their hands and to have ſet<g ref="char:EOLhyphen"/>led Popery, that now they are not only diſappointed, but we have hope to, (not only ſettle but Reforme) the true Proteſtant Religion in great purity this breakes the heart of them: for now their hopes are loſt.</p>
+            <p>The next taſte is num. 15. in which the Loyall convert undertakes to tell us ſome (though weak) grounds of upholding Popery: and Prelacy.</p>
+            <p n="1">1. That <hi>Epiſcopaſie is a government coetaneous with this your almoſt out<g ref="char:EOLhyphen"/>dated Religion.</hi> But thoſe Biſhops were nothing coetaneous with our Pre<g ref="char:EOLhyphen"/>lates till Popery made them ſo. In <hi>Phaochaſes</hi> time they began.</p>
+            <p n="2">2. <hi>That the rubricke of Common Prayer is a booke establiſhed by many Acts of Parliament.</hi> So is the Maſſe booke.</p>
+            <p n="3">3. <hi>To be poſitived, obedient to the King is a duty commanded by Gods own
+<pb facs="tcp:111760:4"/>mouth,</hi> muſt we obey him, if he command againſt Gods commands.</p>
+            <p n="4">4. <hi>That the Clergie are the Miniſters of peace, therefore not to preach for blood;</hi> yet they began this warre; by contribution to the King againſt the Scots.</p>
+            <p n="5">5. <hi>That thoſe who have ſworne canonicall obedience to their ordinary, ought not to take the Covenant againſt Popetry and Prelacy, as if the Prelates league was more viled then our Covenants with God which binde us to it.</hi>
+            </p>
+            <p n="6">6. <hi>Thoſe that have taken the oath of Allegiance, and the Proteſtations ought not to reſiſt the power of their Prince,</hi> which power is in Parliament, and therefore the Prelates abuſed themſelves and there owne actions, are hereby to be cenſured. Theſe be his grounds wherupon he would traduce us to beleeve that we are bound to ſubmit to the Papiſts now in Arms a<g ref="char:EOLhyphen"/>gainſt us. But God hath taught us better things, and to him wil we truſt.</p>
+            <p>Then comming to numb. 16. the deſtempered man having well drunk, and it may be ſlept upon it too, raiſeth us his ſences with a freſh cup of ſacke, which makes him prattle like a nimble Lawyer: pleading the Popiſh <hi>cauſe</hi> of the Enemy, even they <hi>who one, and acknowledge the doctrine of the Church of Rome,</hi> which gives up to underſtand that ſome have a diſpenſation, whereby there publike acknowledgement (for the pre<g ref="char:EOLhyphen"/>ſent) is not exacteed at Rome, well the loyall favourite pleades hard in their behalfe.</p>
+            <p n="1">1. <hi>That they may not be baniſhed, becauſe they have the Kings power, and he that reſiſteth the power ſhall receive damnation,</hi> Rom. 13. <hi>and to get the Kings power, is to make him guilty of pergerie.</hi> A ſtrange cup of wine, and yea this was brude at Oxford, by the Loyall convert, ſurely ſince he turned Papiſt.</p>
+            <p n="2">2. That the Papiſts may <hi>not be diſinherited; becauſe there is no law for it,</hi> yet there is a law, becauſe they riſe, and joyne in Armes againſt the Parliament.</p>
+            <p n="3">3. <hi>That to take away the lives of thoſe that are Romiſh Catholiques is murder,</hi> what may the Papiſts rob? ſpoile, ſteale, kill; raiſe, and continue Warres againſt us, and to kill them in oppoſing them herein: is this murther? and is this that which they do for the defence of the Proteſtant Religion, yet this is the doctrine preached at <hi>Oxford, and printed there, by Leonard Lichfield Printer to the Vniverſity</hi> but a weeke or two ſince, Titled, <hi>the new iſtempered Frſt written by the Author of</hi> the Loyall convert.</p>
+            <p>And therefore to conclude making ſome uſe of his own words, where,
+<pb facs="tcp:111760:5"/>O where are you, moſt Royall Soveraigne? where O where are you, the great Counſells and grave ſenators of this fading Kingdom? where O where are you, the learned Colledge of the aſſembly of divines? where O where are you renowned citizens of London? where, O where are you, the great Armies of the Kingdome: where, O where are you all the Proteſtants of this languiſhing Iſland? Are ye all fallen aſleep? we periſh, and is there none to awake you? open your eyes, unlocke your eares, and molifie your hearts. Behold, Behold the miſeries of your land, and if compaſſion be not baniſhed from the earth, pitie, O pitie the approaching ruines, of this your groaning, this your native Kingdom. Hearen, O harke to the ſad complaints againſt theſe proul and inſolent Papiſts, and prelats. And if your hearts be not of Adamant, relent; and take ſpeedy care for the ſetling of this diſquieted ſtate.</p>
+            <p>Let the breath of this diſtempered Kingdome contracted into one ex<g ref="char:EOLhyphen"/>tream ſigh, move you to the ſpeedy endeavours of a timely cure, examine her diſtempers, Enquire into her conſtitution, and purge out that un<g ref="char:EOLhyphen"/>happy popery which doth ſo diſquiet us. Let not popery cruſh us to pieces, nor the children of your mother ſtarve in the land of bread, and let not the foundation of your naturall Kingdome be longer dabled in unnaturall blood to uphold them. Turne, O turne your eyes upon her breaches, and let not ſtrangers Lord it in her gates; how many Engliſh, Iriſh, French, and Flemiſh papiſts, and of other nations among us ſeek our ruine. For the mercies of that God, which hath been merciful to you, let not millions of Proteſtants be murdered, and maſſacred by them, with millions of poor children that know not their right hand, from their left, ſuffer not your wives, and daughters to be raviſhed and de<g ref="char:EOLhyphen"/>flowred, but joyne as one man, againſt the Common Enemy.</p>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>For the Lord and for his cauſe,</l>
+                     <l>Vp Proteſtants the Papiſts be upon you.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
